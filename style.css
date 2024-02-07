@@ -4,19 +4,10 @@
 	font-family: Tahoma; 
 }
 
-container{
-margin-left: 5px;
-float: center; 
-height: 80px;
-width: 80px;
-margin-top: 5px;
-	
-}	
-
 header{
 	background-image: url(pylon.jpg);
 	background-size: cover;
-	background-height: 100vh;
+	background-height: 200vh;
 	background-position: fixed;
 	background-repeat: no-repeat;
 	background-color: ;
@@ -64,7 +55,7 @@ background-color:maroon;
 width: 100%;
 display:flex;   
 justify-content: space-around;
-align-items: left;
+align-items: center;
 padding: 0px;
 color: gold
 
