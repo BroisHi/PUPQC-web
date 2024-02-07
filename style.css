@@ -64,7 +64,7 @@ background-color:maroon;
 width: 100%;
 display:flex;   
 justify-content: space-around;
-align-items: center;
+align-items: left;
 color: gold
 
 }
